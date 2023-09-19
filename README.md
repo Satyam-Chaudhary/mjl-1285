@@ -6,4 +6,6 @@ go to the root directory of the project in terminal and write command 'python ma
 
 make sure that you have django installed 
 
-to install django write command 'pip3 install django'
+to install django write command 'pip3 install django' 
+
+	:v:	:v:	:v:
